@@ -327,4 +327,6 @@ health-collar/
 
 ## License
 
-MIT. See [LICENSE](LICENSE).
+Source-available for noncommercial use under the [PolyForm Noncommercial License 1.0.0](LICENSE).
+
+Commercial use requires prior written permission from the copyright holder.
